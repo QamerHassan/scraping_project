@@ -1,0 +1,22 @@
+2025-09-19 16:34:31,119 - INFO - ==== Scraping Started ====
+2025-09-19 16:34:31,122 - INFO - Starting news scraping: https://quotes.toscrape.com/
+2025-09-19 16:34:31,122 - INFO - Starting news scraping: https://quotes.toscrape.com/page/2/
+2025-09-19 16:34:31,123 - INFO - Starting e-commerce scraping: https://books.toscrape.com/catalogue/page-1.html
+2025-09-19 16:34:50,859 - INFO - [News] Completed output\news2.csv, total items: 9
+2025-09-19 16:34:50,860 - INFO - [DONE] news2.csv scraped 9 items/products
+2025-09-19 16:34:52,306 - INFO - [News] Completed output\news1.csv, total items: 10
+2025-09-19 16:34:52,306 - INFO - [DONE] news1.csv scraped 10 items/products
+2025-09-19 16:36:23,070 - INFO - [Ecom] Completed output\products.csv, total products: 1000
+2025-09-19 16:36:23,072 - INFO - [DONE] products.csv scraped 1000 items/products
+2025-09-19 16:36:23,072 - INFO - ==== Scraping Finished ====
+2025-09-19 16:36:23,975 - INFO - ==== Scraping Started ====
+2025-09-19 16:36:23,977 - INFO - Starting news scraping: https://quotes.toscrape.com/
+2025-09-19 16:36:23,978 - INFO - Starting news scraping: https://quotes.toscrape.com/page/2/
+2025-09-19 16:36:23,978 - INFO - Starting e-commerce scraping: https://books.toscrape.com/catalogue/page-1.html
+2025-09-19 16:36:42,443 - INFO - [News] Completed output\news1.csv, total items: 10
+2025-09-19 16:36:42,445 - INFO - [DONE] news1.csv scraped 10 items/products
+2025-09-19 16:36:42,786 - INFO - [News] Completed output\news2.csv, total items: 9
+2025-09-19 16:36:42,786 - INFO - [DONE] news2.csv scraped 9 items/products
+2025-09-19 16:38:18,592 - INFO - [Ecom] Completed output\products.csv, total products: 1000
+2025-09-19 16:38:18,593 - INFO - [DONE] products.csv scraped 1000 items/products
+2025-09-19 16:38:18,593 - INFO - ==== Scraping Finished ====
